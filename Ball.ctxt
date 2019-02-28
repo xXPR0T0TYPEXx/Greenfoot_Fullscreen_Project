@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Ball
+comment0.text=\r\n\ Allows\ the\ player\ to\ shoot\ some\ balls\ to\ it's\ enemies\r\n\ \r\n\ @author\ Ferhat\r\n\ @version\ 1.0\r\n\ @last\ updated\ 2019-02-27\r\n
+comment1.params=image\ speed\ isPlayerViewRight
+comment1.target=Ball(java.lang.String,\ int,\ boolean)
+comment1.text=\r\n\ Creates\ a\ new\ object\ of\ Ball\ to\ shoot\ around.\r\n\ \r\n\ @param\ 'image'\:\ set\ picture\ from\ resource(images)\ e.g.\ "rocket.png"\r\n\ @param\ 'speed'\:\ speed\ of\ ball\ in\ the\ environment\r\n\ @param\ 'isPlayerViewRight'\:\ if\ true\ ball\ will\ move\ to\ right\ else\ to\ left\r\n
+comment2.params=world
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment2.text=\r\n\ This\ method\ is\ called\ by\ the\ Greenfoot\ system\ when\ this\ object\ has\ been\ inserted\ into\ the\ world.\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Act\ -\ do\ whatever\ the\ Ball\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment4.params=
+comment4.target=void\ movement()
+comment4.text=\r\n\ movement\ direction\ depends\ on\ player's\ perspective\r\n
+comment5.params=
+comment5.target=void\ outOfWorldArea()
+comment5.text=\r\n\ Removes\ the\ object\ from\ the\ world\ whenever\ a\ ball\ reaches\ the\ end\ of\ the\ world\ area.\r\n
+comment6.params=
+comment6.target=boolean\ getIsPlayerViewRight()
+comment6.text=\r\n\ get\ current\ player\ view\ from\ FlyingFish\r\n
+numComments=7

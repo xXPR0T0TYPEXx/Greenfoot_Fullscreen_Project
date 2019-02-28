@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Fullscreen
+comment0.text=\r\n\ Fullscreen\ class\ allows\ users\ to\ run\ their\ Greenfoot\ Projects\ in\ fullscreen\ mode\ without\ any\ loss\r\n\ of\ image\ quality\ of\ objects\ or\ already\ existing\ Greenfoot\ methods.\ Fullscreen\ gets\ the\ JPanel\r\n\ from\ WorldCanvas\ and\ puts\ it\ to\ a\ new\ JFrame\ window.\ Thereby\ Greenfoot\ window\ will\ lose\ it's\ JPanel,\r\n\ so\ reboot\ Greenfoot\ to\ restore\ panel.\r\n\ \r\n\ @author\ Ferhat\r\n\ @version\ 1.0\r\n\ @last\ updated\ 2019-02-27\r\n
+comment1.params=
+comment1.target=Fullscreen()
+comment1.text=\r\n\ Fullscreen\ calls\ the\ current\ system\ screen\ resolution\ and\ sets\ it\ to\ a\ new\ JFrame\ window\r\n
+numComments=2

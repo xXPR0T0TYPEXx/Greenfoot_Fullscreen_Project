@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Label
+comment0.text=\r\n\ Creates\ new\ text\ label\ string\ for\ the\ environment\r\n\ \r\n\ @author\ Ferhat,\ Berthold\ \r\n\ @version\ 1.1\r\n\ @last\ updated\ 2019-02-27\r\n
+comment1.params=text\ size\ front\ background
+comment1.target=Label(java.lang.String,\ int,\ greenfoot.Color,\ greenfoot.Color)
+comment1.text=\r\n\ Create\ a\ new\ customizable\ label\r\n\ \r\n\ @param\ 'text'\:\ a\ text\ string\r\n\ @param\ 'size'\:\ size\ of\ text\ string\r\n\ @param\ 'front'\:\ front\ color\ of\ text\ string\r\n\ @param\ 'background'\:\ background\ color\ of\ text\ string\r\n
+comment2.params=text
+comment2.target=Label(java.lang.String)
+comment2.text=\r\n\ Create\ a\ new\ default\ label\r\n\ \r\n\ @param\ 'text'\:\ a\ text\ string\r\n
+numComments=3

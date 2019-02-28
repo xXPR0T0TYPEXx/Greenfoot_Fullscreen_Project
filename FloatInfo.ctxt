@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=FloatInfo
+comment0.text=\r\n\ A\ floating\ label\ object\ which\ disappears\ when\ it's\ transparent\ completely.\r\n\ \r\n\ @author\ Ferhat\r\n\ @version\ 1.0\r\n\ @last\ updated\ 2019-02-27\r\n
+comment1.params=text\ size\ front\ background
+comment1.target=FloatInfo(java.lang.String,\ int,\ greenfoot.Color,\ greenfoot.Color)
+comment1.text=\r\n\ Create\ a\ new\ customizable\ floating\ label\ object.\r\n\ \r\n\ @param\ 'text'\:\ a\ text\ string\r\n\ @param\ 'size'\:\ size\ of\ text\ string\r\n\ @param\ 'front'\:\ front\ color\ of\ text\ string\r\n\ @param\ 'background'\:\ background\ color\ of\ text\ string\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ FloatInfo\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=speed
+comment3.target=void\ floatMessageAnimation(int)
+comment3.text=\r\n\ Moves\ FloatInfo\ object\ uperwards\ and\ makes\ it's\ object\ more\ transparent\ from\ time\ to\ time\r\n\ \r\n\ @param\ 'speed'\:\ speed\ of\ FloatInfo\ in\ the\ environment\r\n
+numComments=4

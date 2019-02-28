@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Cloud
+comment0.text=\r\n\ Simple\ and\ friendly\ cloud\ objects\ in\ the\ environment.\r\n\ \r\n\ @author\ Ferhat\r\n\ @version\ 1.0\r\n\ @last\ updated\ 2019-02-27\r\n
+comment1.params=image\ speed
+comment1.target=Cloud(java.lang.String,\ int)
+comment1.text=\r\n\ New\ Object\ of\ Cloud\r\n\ \r\n\ @param\ 'image'\:\ picture\ from\ resource(images)\ e.g.\ "bear.png"\r\n\ @param\ 'speed'\:\ speed\ of\ clouds\ in\ the\ environment\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Cloud\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ movement()
+comment3.text=\r\n\ Moves\ clouds\ from\ right\ to\ left\ of\ the\ screen\r\n
+comment4.params=
+comment4.target=void\ outOfWorldArea()
+comment4.text=\r\n\ Removes\ the\ object\ from\ the\ world\ whenever\ a\ cloud\ reaches\ the\ end\ of\ the\ world\ area.\r\n
+numComments=5
